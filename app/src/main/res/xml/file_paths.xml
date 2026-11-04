@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Paylaşım için geçici PDF kopyaları -->
+    <cache-path name="paylasim" path="paylasim/" />
+    <!-- Kamera ile çekilen geçici fotoğraf -->
+    <cache-path name="kamera" path="kamera/" />
+</paths>
